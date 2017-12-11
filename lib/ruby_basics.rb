@@ -14,8 +14,8 @@ def greeting(argument1,argument2)
 
 end
 
-def return_a_value
-
+def return_a_value(value="Nice")
+  value
 end
 
 def last_evaluated_value
